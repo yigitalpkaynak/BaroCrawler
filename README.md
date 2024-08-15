@@ -2,9 +2,12 @@
 
 ## Project Overview
 IBaroCrawler is a Java application designed to automatically download PDF documents from the Istanbul Bar Association website, extract text from these files, and save the content locally or in a MySQL database. It can also process and store recently published Bar Association journals.
+
 ## Key Details
 
 •	Project Name: IBaroCrawler
+
+•	Project Documentation: Look for the file "IBaroCrawler.pdf" in the root directory. Detailed documentation of the project has been added in Turkish.
 
 •	Programming Language: Java
 
