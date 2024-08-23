@@ -80,9 +80,6 @@ db.password=[YourPassword]
 ## 5.	Run the Project:
 Execute the App class to start the process.
 
-## Project Status
-The project is functional, but there are some areas that need further development and testing. Due to an early end to my internship, I couldn't fully complete the project. I encourage the next developer to continue improving and refining the data processing and validation steps.
-
 ## Contact
 
 If you have any questions or need support, feel free to contact me:
